@@ -1,0 +1,4 @@
+C:\Users\Frontend forever\Desktop\EPAM\HomeTasks\HT2\HT2\HT2\obj\Debug\HT2.csprojAssemblyReference.cache
+C:\Users\Frontend forever\Desktop\EPAM\HomeTasks\HT2\HT2\HT2\obj\Debug\HT2.csproj.CoreCompileInputs.cache
+C:\Users\Frontend forever\Desktop\EPAM\HT-C#\HW1_task2\HT2\HT2\obj\Debug\HT2.csprojAssemblyReference.cache
+C:\Users\Frontend forever\Desktop\EPAM\HT-C#\HW1_task2\HT2\HT2\obj\Debug\HT2.csproj.CoreCompileInputs.cache
