@@ -1,0 +1,7 @@
+C:\Users\Frontend forever\Desktop\EPAM\HWs_EPAM\HW2_task1\HW2_task1\bin\Debug\ConsolPrj1.exe.config
+C:\Users\Frontend forever\Desktop\EPAM\HWs_EPAM\HW2_task1\HW2_task1\bin\Debug\ConsolPrj1.exe
+C:\Users\Frontend forever\Desktop\EPAM\HWs_EPAM\HW2_task1\HW2_task1\bin\Debug\ConsolPrj1.pdb
+C:\Users\Frontend forever\Desktop\EPAM\HWs_EPAM\HW2_task1\HW2_task1\obj\Debug\ConsolPrj1.csprojAssemblyReference.cache
+C:\Users\Frontend forever\Desktop\EPAM\HWs_EPAM\HW2_task1\HW2_task1\obj\Debug\ConsolPrj1.csproj.CoreCompileInputs.cache
+C:\Users\Frontend forever\Desktop\EPAM\HWs_EPAM\HW2_task1\HW2_task1\obj\Debug\ConsolPrj1.exe
+C:\Users\Frontend forever\Desktop\EPAM\HWs_EPAM\HW2_task1\HW2_task1\obj\Debug\ConsolPrj1.pdb
